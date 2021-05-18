@@ -15,14 +15,15 @@ header {
   /* apply styles to <header> */
   padding: 20px 35px;
   background-color: #39a6b2;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
 }
 header h1 {
   font-weight: bold;
   font-size: 36px;
   color: #fce138;
   margin: 0;
-  /* shares inline space with nav elements */
-  display: inline;
 }
 
 header a {
@@ -32,8 +33,6 @@ header a {
 }
 
 header nav {
-  /* push the nav elements to the right of the page */
-  float: right;
   margin: 7px 0;
 }
 
