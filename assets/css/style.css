@@ -11,14 +11,14 @@
 }
 body {
   /* more on this crazy alphanumerical value in a minute! */
-  color: #39a6b2;
+  color: var(--tertiary-color);
   font-family: Helvetica, Arial, sans-serif;
 }
 
 header {
   /* apply styles to <header> */
   padding: 20px 35px;
-  background-color: #39a6b2;
+  background-color: var(--tertiary-color);
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
@@ -182,12 +182,12 @@ section {
   border-radius: 10px;
 }
 .hero-form button:hover {
-  background-color: #39a6b2;
+  background-color: var(--tertiary-color);
 }
 
 .intro p {
   line-height: 1.7;
-  color: #39a6b2;
+  color: var(--tertiary-color);
   width: 80%;
   font-size: 20px;
   margin: 0 auto;
@@ -213,7 +213,7 @@ section {
 }
 
 .secondary-border {
-  border-color: #39a6b2;
+  border-color: var(--tertiary-color);
 }
 
 .step h3 {
@@ -243,7 +243,7 @@ section {
 }
 
 .step-text p {
-  color: #39a6b2;
+  color: var(--tertiary-color);
   font-size: 18px;
 }
 
@@ -372,7 +372,7 @@ section {
 }
 .contact-form button:hover {
   color: var(--primary-color);
-  background: #39a6b2;
+  background: var(--tertiary-color);
 }
 
 .contact-info a {
@@ -394,7 +394,7 @@ section {
 }
 
 .step:not(:last-child) {
-  border-bottom: 1px solid #39a6b2;
+  border-bottom: 1px solid var(--tertiary-color);
 }
 .checkbox-wrapper input,
 .radio-wrapper input {
@@ -430,7 +430,11 @@ section {
   position: absolute;
   left: -29px;
   top: -3px;
-  background-image: radial-gradient(circle, #39a6b2, var(--secondary-color));
+  background-image: radial-gradient(
+    circle,
+    var(--tertiary-color),
+    var(--secondary-color)
+  );
 }
 
 .checkbox-wrapper label::after {
