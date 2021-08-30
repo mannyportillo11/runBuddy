@@ -1,8 +1,7 @@
-# Run Buddy, Inc
+# Run Buddy, Inc.
 
 ## Purpose
-
-A website that offers fitness training services.
+A website that offers fitness training services. 
 
 ## Tools
 
@@ -11,11 +10,10 @@ A website that offers fitness training services.
 
 ## Website
 
-[Run Buddy](https://mannyportillo11.github.io/runBuddy/)
+[Run Buddy, Inc.](https://mannyportillo11.github.io/runBuddy/)
 
 ## Contributors
 
- ### Made with ❤️ by [Manny Portillo](https://github.com/mannyportillo11)
-
+### Made with ❤️ by [Manny Portillo](https://github.com/mannyportillo11)
 # 
- ##### ©️2019 Run Buddy, Inc
+##### ©️2019 Run Buddy, Inc
