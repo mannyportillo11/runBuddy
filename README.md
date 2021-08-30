@@ -1,36 +1,21 @@
-<<<<<<< HEAD
-
-# Run Buddy Inc. Yeah Buddy
-
-## Purpose
-
-# A website that offers fitness training services.
-
 # Run Buddy, Inc
 
 ## Purpose
 
 A website that offers fitness training services.
 
-> > > > > > > ec0427e210cace9b3de7dd91d493aa46c1a1888d
-
-## Built With
+## Tools
 
 - HTML
 - CSS
 
 ## Website
 
-https://lernantino.github.io/run-buddy/
+[Run Buddy](https://mannyportillo11.github.io/runBuddy/)
 
-## Contribution
+## Contributors
 
-<<<<<<< HEAD
+ ### Made with ❤️ by [Manny Portillo](https://github.com/mannyportillo11)
 
-# Made with ❤️ by Manny P.
-
-Made with ❤️ by [your name]
-
-> > > > > > > ec0427e210cace9b3de7dd91d493aa46c1a1888d
-
-### ©️2019 Run Buddy, Inc
+# 
+ ##### ©️2019 Run Buddy, Inc
